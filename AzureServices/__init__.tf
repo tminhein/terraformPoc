@@ -6,6 +6,6 @@ terraform {
     key                  = "dev.terraform.test-tfstate"
     access_key="Ma1SqA=="
     subscription_id  = "xxxxxxxxxxxxxxxx-2455697edb51"
-    tenant_id        = "11121435-b640-4aca-944d-53645b9d42da"
+    tenant_id        = "xxxxxxxxxxxxxxxx3645b9d42da"
   }
 }
